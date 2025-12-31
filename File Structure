@@ -1,0 +1,15 @@
+arq-e-kashmir/
+│
+├── index.html          (Home)
+├── products.html
+├── purity.html
+├── knowledge.html
+├── reviews.html
+├── about.html
+├── contact.html
+│
+├── css/
+│   └── style.css
+│
+├── images/
+│   └── (put your product photos here)
