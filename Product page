@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Products | Arq-e-Kashmir</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<header>
+  <h1>Our Honey</h1>
+</header>
+
+<section class="section">
+
+  <div class="product-box">
+    <h3>Acacia Honey</h3>
+    <p>Light colored, mild taste. Ideal for daily use.</p>
+    <ul>
+      <li>250g – Small unlabelled jar</li>
+      <li>500g – Labelled jar</li>
+      <li>1kg – Square unlabelled jar</li>
+    </ul>
+    <p>Price starts at ₹260</p>
+  </div>
+
+  <div class="product-box">
+    <h3>Solai Honey</h3>
+    <p>Darker, stronger flavor. Traditionally preferred.</p>
+    <ul>
+      <li>250g – Small unlabelled jar</li>
+      <li>500g – Labelled jar</li>
+      <li>1kg – Square unlabelled jar</li>
+    </ul>
+    <p>Price starts at ₹260</p>
+  </div>
+
+</section>
+
+<a class="whatsapp" href="https://wa.me/916006413442">Order on WhatsApp</a>
+</body>
+</html>
