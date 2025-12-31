@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Arq-e-Kashmir | Pure Kashmiri Honey</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<header>
+  <h1>Arq-e-Kashmir</h1>
+  <nav>
+    <a href="index.html">Home</a>
+    <a href="products.html">Products</a>
+    <a href="purity.html">Purity</a>
+    <a href="knowledge.html">Knowledge</a>
+    <a href="reviews.html">Reviews</a>
+    <a href="about.html">About</a>
+    <a href="contact.html">Contact</a>
+  </nav>
+</header>
+
+<section class="hero">
+  <h2>Pure Kashmiri Honey</h2>
+  <p>Two variants. No mixing. No fake claims.  
+     Sourced from Kashmir and sold with honesty.</p>
+
+  <a class="button" href="https://wa.me/916006413442">Order on WhatsApp</a>
+  <a class="button" href="purity.html">Our Transparency Promise</a>
+</section>
+
+<section class="section">
+  <h3>Why Arq-e-Kashmir?</h3>
+  <p>
+    Honey adulteration is common. We focus on small batches,
+    minimal processing, and full transparency instead of loud claims.
+  </p>
+</section>
+
+<footer>
+  © Arq-e-Kashmir | Essence of Kashmir  
+</footer>
+
+<a class="whatsapp" href="https://wa.me/916006413442">WhatsApp Order</a>
+
+</body>
+</html>
